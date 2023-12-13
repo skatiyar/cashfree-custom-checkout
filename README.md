@@ -6,7 +6,7 @@ For detailed documentation of Cashfree apis visit [Cashfree Docs](https://docs.c
 
 To register as a merchant and create sandbox keys head over to [Merchant Dashboard](https://merchant.cashfree.com)
 
-This is built using [SvelteJS](https://kit.svelte.dev/)
+This is built using [SvelteJS](https://kit.svelte.dev/), [TailwindCSS](https://tailwindcss.com) and hosted using [Vercel](https://vercel.com)
 
 ## Preview
 
