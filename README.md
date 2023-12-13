@@ -6,7 +6,7 @@ This is built using [SvelteJS](https://kit.svelte.dev/)
 
 ## Preview
 
-Demo at [Google](https://google.com)
+Demo at [cashfree-custom-checkout.vercel.app](https://cashfree-custom-checkout.vercel.app/)
 
 |  |  |
 | --- | --- |
