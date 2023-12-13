@@ -1,25 +1,27 @@
-# create-svelte
+# Cashfree Checkout
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Reference project to understand how to build a self hosted [Cashfree](https://www.cashfree.com) checkout page.
 
-## Creating a project
+This is built using [SvelteJS](https://kit.svelte.dev/)
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Preview
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+Demo at [Google](https://google.com)
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+|  |  |
+| --- | --- |
+![Landing](static/Landing.png)  |  ![CheckoutCard](static/CheckoutCard.png)
+![CheckoutUPI](static/CheckoutUPI.png)  |  ![ThankYou](static/ThankYou.png)
+
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
 ```bash
-npm run dev
+# create a new project in my-app
+npm create svelte@latest cashfree-custom-checkout
+
+# install dependencies
+npm i
 
 # or start the server and open the app in a new browser tab
 npm run dev -- --open
